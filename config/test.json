@@ -3,5 +3,6 @@
   "subtitle": "In million tonnes per year",
   "source":   "Source: FAO",
   "scale":    1e6,
-  "target":   "India"
+  "target":   "India",
+  "guessColours": ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd"]
 }
