@@ -1,0 +1,1217 @@
+{
+  "AS": {
+    "country": "American Samoa",
+    "distance_km": 10862.6,
+    "direction": "E"
+  },
+  "UM": {
+    "country": "United States Minor Outlying Islands",
+    "distance_km": 6437.9,
+    "direction": "E"
+  },
+  "CK": {
+    "country": "Cook Islands",
+    "distance_km": 12220.6,
+    "direction": "E"
+  },
+  "PF": {
+    "country": "French Polynesia",
+    "distance_km": 12728.4,
+    "direction": "E"
+  },
+  "NU": {
+    "country": "Niue",
+    "distance_km": 11305.9,
+    "direction": "E"
+  },
+  "PN": {
+    "country": "Pitcairn",
+    "distance_km": 14827.9,
+    "direction": "E"
+  },
+  "WS": {
+    "country": "Samoa",
+    "distance_km": 10679.7,
+    "direction": "E"
+  },
+  "TK": {
+    "country": "Tokelau",
+    "distance_km": 10361.4,
+    "direction": "E"
+  },
+  "TO": {
+    "country": "Tonga",
+    "distance_km": 11091.9,
+    "direction": "E"
+  },
+  "WF": {
+    "country": "Wallis and Futuna",
+    "distance_km": 10318.9,
+    "direction": "E"
+  },
+  "SV": {
+    "country": "El Salvador",
+    "distance_km": 13140.0,
+    "direction": "N"
+  },
+  "GT": {
+    "country": "Guatemala",
+    "distance_km": 12887.2,
+    "direction": "N"
+  },
+  "MX": {
+    "country": "Mexico",
+    "distance_km": 11736.7,
+    "direction": "NE"
+  },
+  "CA": {
+    "country": "Canada",
+    "distance_km": 8207.1,
+    "direction": "N"
+  },
+  "AR": {
+    "country": "Argentina",
+    "distance_km": 18401.2,
+    "direction": "NW"
+  },
+  "FK": {
+    "country": "Falkland Islands",
+    "distance_km": 18627.6,
+    "direction": "SW"
+  },
+  "CL": {
+    "country": "Chile",
+    "distance_km": 18880.8,
+    "direction": "NW"
+  },
+  "EC": {
+    "country": "Ecuador",
+    "distance_km": 14950.0,
+    "direction": "N"
+  },
+  "PE": {
+    "country": "Peru",
+    "distance_km": 15720.5,
+    "direction": "N"
+  },
+  "BO": {
+    "country": "Bolivia",
+    "distance_km": 16459.9,
+    "direction": "N"
+  },
+  "BR": {
+    "country": "Brazil",
+    "distance_km": 15545.4,
+    "direction": "NW"
+  },
+  "PY": {
+    "country": "Paraguay",
+    "distance_km": 16924.3,
+    "direction": "NW"
+  },
+  "UY": {
+    "country": "Uruguay",
+    "distance_km": 17660.1,
+    "direction": "NW"
+  },
+  "GS": {
+    "country": "South Georgia and South Sandwich Islands",
+    "distance_km": 17140.2,
+    "direction": "SW"
+  },
+  "AQ": {
+    "country": "Antarctica",
+    "distance_km": 14818.1,
+    "direction": "S"
+  },
+  "FJ": {
+    "country": "Fiji",
+    "distance_km": 10337.9,
+    "direction": "SE"
+  },
+  "SH": {
+    "country": "Saint Helena",
+    "distance_km": 12739.6,
+    "direction": "W"
+  },
+  "AI": {
+    "country": "Anguilla",
+    "distance_km": 12627.5,
+    "direction": "N"
+  },
+  "AG": {
+    "country": "Antigua and Barbuda",
+    "distance_km": 12728.7,
+    "direction": "N"
+  },
+  "AW": {
+    "country": "Aruba",
+    "distance_km": 13354.9,
+    "direction": "N"
+  },
+  "BS": {
+    "country": "Bahamas",
+    "distance_km": 12029.0,
+    "direction": "N"
+  },
+  "BB": {
+    "country": "Barbados",
+    "distance_km": 13101.8,
+    "direction": "N"
+  },
+  "BZ": {
+    "country": "Belize",
+    "distance_km": 12760.6,
+    "direction": "N"
+  },
+  "BM": {
+    "country": "Bermuda",
+    "distance_km": 11106.6,
+    "direction": "N"
+  },
+  "BQ": {
+    "country": "Saint Eustatius",
+    "distance_km": 12706.0,
+    "direction": "N"
+  },
+  "VG": {
+    "country": "British Virgin Islands",
+    "distance_km": 12632.8,
+    "direction": "N"
+  },
+  "KY": {
+    "country": "Cayman Islands",
+    "distance_km": 12617.3,
+    "direction": "N"
+  },
+  "CO": {
+    "country": "Colombia",
+    "distance_km": 14300.4,
+    "direction": "N"
+  },
+  "CR": {
+    "country": "Costa Rica",
+    "distance_km": 13638.5,
+    "direction": "N"
+  },
+  "CU": {
+    "country": "Cuba",
+    "distance_km": 12384.9,
+    "direction": "N"
+  },
+  "CW": {
+    "country": "Curacao",
+    "distance_km": 13379.1,
+    "direction": "N"
+  },
+  "DM": {
+    "country": "Dominica",
+    "distance_km": 12899.0,
+    "direction": "N"
+  },
+  "DO": {
+    "country": "Dominican Republic",
+    "distance_km": 12665.1,
+    "direction": "N"
+  },
+  "GF": {
+    "country": "French Guiana",
+    "distance_km": 13908.7,
+    "direction": "NW"
+  },
+  "GD": {
+    "country": "Grenada",
+    "distance_km": 13267.2,
+    "direction": "N"
+  },
+  "GP": {
+    "country": "Guadeloupe",
+    "distance_km": 12814.0,
+    "direction": "N"
+  },
+  "GY": {
+    "country": "Guyana",
+    "distance_km": 14002.5,
+    "direction": "N"
+  },
+  "HT": {
+    "country": "Haiti",
+    "distance_km": 12670.2,
+    "direction": "N"
+  },
+  "HN": {
+    "country": "Honduras",
+    "distance_km": 13069.7,
+    "direction": "N"
+  },
+  "JM": {
+    "country": "Jamaica",
+    "distance_km": 12763.9,
+    "direction": "N"
+  },
+  "MQ": {
+    "country": "Martinique",
+    "distance_km": 12977.1,
+    "direction": "N"
+  },
+  "MS": {
+    "country": "Montserrat",
+    "distance_km": 12773.5,
+    "direction": "N"
+  },
+  "NI": {
+    "country": "Nicaragua",
+    "distance_km": 13293.2,
+    "direction": "N"
+  },
+  "PA": {
+    "country": "Panama",
+    "distance_km": 13830.9,
+    "direction": "N"
+  },
+  "PR": {
+    "country": "Puerto Rico",
+    "distance_km": 12683.6,
+    "direction": "N"
+  },
+  "BL": {
+    "country": "Saint Barthelemy",
+    "distance_km": 12658.0,
+    "direction": "N"
+  },
+  "KN": {
+    "country": "Saint Kitts and Nevis",
+    "distance_km": 12721.0,
+    "direction": "N"
+  },
+  "LC": {
+    "country": "Saint Lucia",
+    "distance_km": 13057.4,
+    "direction": "N"
+  },
+  "MF": {
+    "country": "Saint Martin",
+    "distance_km": 12643.5,
+    "direction": "N"
+  },
+  "PM": {
+    "country": "Saint Pierre and Miquelon",
+    "distance_km": 9374.4,
+    "direction": "N"
+  },
+  "VC": {
+    "country": "Saint Vincent and the Grenadines",
+    "distance_km": 13132.1,
+    "direction": "N"
+  },
+  "SX": {
+    "country": "Sint Maarten",
+    "distance_km": 12647.8,
+    "direction": "N"
+  },
+  "SR": {
+    "country": "Suriname",
+    "distance_km": 13971.2,
+    "direction": "NW"
+  },
+  "TT": {
+    "country": "Trinidad and Tobago",
+    "distance_km": 13445.1,
+    "direction": "N"
+  },
+  "TC": {
+    "country": "Turks and Caicos Islands",
+    "distance_km": 12339.8,
+    "direction": "N"
+  },
+  "VI": {
+    "country": "US Virgin Islands",
+    "distance_km": 12710.2,
+    "direction": "N"
+  },
+  "VE": {
+    "country": "Venezuela",
+    "distance_km": 13900.4,
+    "direction": "N"
+  },
+  "BF": {
+    "country": "Burkina Faso",
+    "distance_km": 10133.1,
+    "direction": "W"
+  },
+  "CV": {
+    "country": "Cabo Verde",
+    "distance_km": 11326.0,
+    "direction": "NW"
+  },
+  "CI": {
+    "country": "C\u00f4te d'Ivoire",
+    "distance_km": 10795.6,
+    "direction": "W"
+  },
+  "GM": {
+    "country": "Gambia",
+    "distance_km": 10959.0,
+    "direction": "NW"
+  },
+  "GH": {
+    "country": "Ghana",
+    "distance_km": 10447.2,
+    "direction": "W"
+  },
+  "GI": {
+    "country": "Gibraltar",
+    "distance_km": 8363.3,
+    "direction": "NW"
+  },
+  "GN": {
+    "country": "Guinea",
+    "distance_km": 10942.6,
+    "direction": "NW"
+  },
+  "GW": {
+    "country": "Guinea-Bissau",
+    "distance_km": 11060.7,
+    "direction": "NW"
+  },
+  "LR": {
+    "country": "Liberia",
+    "distance_km": 11144.0,
+    "direction": "W"
+  },
+  "ML": {
+    "country": "Mali",
+    "distance_km": 9893.5,
+    "direction": "NW"
+  },
+  "MR": {
+    "country": "Mauritania",
+    "distance_km": 10022.2,
+    "direction": "NW"
+  },
+  "MA": {
+    "country": "Morocco",
+    "distance_km": 9204.4,
+    "direction": "NW"
+  },
+  "PT": {
+    "country": "Portugal",
+    "distance_km": 8219.8,
+    "direction": "NW"
+  },
+  "SN": {
+    "country": "Senegal",
+    "distance_km": 10837.7,
+    "direction": "NW"
+  },
+  "SL": {
+    "country": "Sierra Leone",
+    "distance_km": 11144.4,
+    "direction": "NW"
+  },
+  "GL": {
+    "country": "Greenland",
+    "distance_km": 6285.4,
+    "direction": "N"
+  },
+  "GG": {
+    "country": "Guernsey",
+    "distance_km": 7142.1,
+    "direction": "NW"
+  },
+  "IE": {
+    "country": "Ireland",
+    "distance_km": 7124.8,
+    "direction": "NW"
+  },
+  "IM": {
+    "country": "Isle of Man",
+    "distance_km": 6878.2,
+    "direction": "NW"
+  },
+  "JE": {
+    "country": "Jersey",
+    "distance_km": 7137.0,
+    "direction": "NW"
+  },
+  "GB": {
+    "country": "United Kingdom",
+    "distance_km": 6815.8,
+    "direction": "NW"
+  },
+  "IS": {
+    "country": "Iceland",
+    "distance_km": 6592.5,
+    "direction": "NW"
+  },
+  "FO": {
+    "country": "Faroe Islands",
+    "distance_km": 6399.0,
+    "direction": "NW"
+  },
+  "SJ": {
+    "country": "Svalbard",
+    "distance_km": 4849.0,
+    "direction": "N"
+  },
+  "BV": {
+    "country": "Bouvet Island",
+    "distance_km": 14637.0,
+    "direction": "SW"
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "distance_km": 12066.2,
+    "direction": "SE"
+  },
+  "AO": {
+    "country": "Angola",
+    "distance_km": 10677.7,
+    "direction": "W"
+  },
+  "BW": {
+    "country": "Botswana",
+    "distance_km": 11049.0,
+    "direction": "SW"
+  },
+  "BI": {
+    "country": "Burundi",
+    "distance_km": 9040.2,
+    "direction": "W"
+  },
+  "KM": {
+    "country": "Comoros",
+    "distance_km": 8822.7,
+    "direction": "SW"
+  },
+  "CG": {
+    "country": "Congo",
+    "distance_km": 9954.8,
+    "direction": "W"
+  },
+  "CD": {
+    "country": "Congo DRC",
+    "distance_km": 9525.2,
+    "direction": "W"
+  },
+  "GA": {
+    "country": "Gabon",
+    "distance_km": 10176.8,
+    "direction": "W"
+  },
+  "KE": {
+    "country": "Kenya",
+    "distance_km": 8121.4,
+    "direction": "W"
+  },
+  "LS": {
+    "country": "Lesotho",
+    "distance_km": 11356.0,
+    "direction": "SW"
+  },
+  "MW": {
+    "country": "Malawi",
+    "distance_km": 9564.4,
+    "direction": "SW"
+  },
+  "TF": {
+    "country": "Glorioso Islands",
+    "distance_km": 8560.8,
+    "direction": "SW"
+  },
+  "MZ": {
+    "country": "Mozambique",
+    "distance_km": 9875.7,
+    "direction": "SW"
+  },
+  "NA": {
+    "country": "Namibia",
+    "distance_km": 11425.9,
+    "direction": "W"
+  },
+  "RW": {
+    "country": "Rwanda",
+    "distance_km": 8933.7,
+    "direction": "W"
+  },
+  "ST": {
+    "country": "Sao Tome and Principe",
+    "distance_km": 10502.6,
+    "direction": "W"
+  },
+  "ZA": {
+    "country": "South Africa",
+    "distance_km": 11501.3,
+    "direction": "SW"
+  },
+  "SZ": {
+    "country": "Eswatini",
+    "distance_km": 10890.7,
+    "direction": "SW"
+  },
+  "TZ": {
+    "country": "Tanzania",
+    "distance_km": 8944.7,
+    "direction": "W"
+  },
+  "ZM": {
+    "country": "Zambia",
+    "distance_km": 10022.7,
+    "direction": "W"
+  },
+  "ZW": {
+    "country": "Zimbabwe",
+    "distance_km": 10368.2,
+    "direction": "SW"
+  },
+  "IO": {
+    "country": "British Indian Ocean Territory",
+    "distance_km": 6776.1,
+    "direction": "SW"
+  },
+  "HM": {
+    "country": "Heard Island and McDonald Islands",
+    "distance_km": 11492.9,
+    "direction": "S"
+  },
+  "MG": {
+    "country": "Madagascar",
+    "distance_km": 9277.8,
+    "direction": "SW"
+  },
+  "MU": {
+    "country": "Mauritius",
+    "distance_km": 8782.4,
+    "direction": "SW"
+  },
+  "YT": {
+    "country": "Mayotte",
+    "distance_km": 8811.8,
+    "direction": "SW"
+  },
+  "RE": {
+    "country": "R\u00e9union",
+    "distance_km": 8968.9,
+    "direction": "SW"
+  },
+  "SC": {
+    "country": "Seychelles",
+    "distance_km": 7418.8,
+    "direction": "SW"
+  },
+  "DZ": {
+    "country": "Algeria",
+    "distance_km": 8489.1,
+    "direction": "NW"
+  },
+  "BJ": {
+    "country": "Benin",
+    "distance_km": 10060.4,
+    "direction": "W"
+  },
+  "CM": {
+    "country": "Cameroon",
+    "distance_km": 9529.4,
+    "direction": "W"
+  },
+  "CF": {
+    "country": "Central African Republic",
+    "distance_km": 8953.6,
+    "direction": "W"
+  },
+  "TD": {
+    "country": "Chad",
+    "distance_km": 8393.6,
+    "direction": "W"
+  },
+  "GQ": {
+    "country": "Equatorial Guinea",
+    "distance_km": 10102.6,
+    "direction": "W"
+  },
+  "KI": {
+    "country": "Kiribati",
+    "distance_km": 10550.1,
+    "direction": "E"
+  },
+  "LY": {
+    "country": "Libya",
+    "distance_km": 7507.3,
+    "direction": "W"
+  },
+  "MT": {
+    "country": "Malta",
+    "distance_km": 7109.2,
+    "direction": "NW"
+  },
+  "NE": {
+    "country": "Niger",
+    "distance_km": 8959.8,
+    "direction": "W"
+  },
+  "NG": {
+    "country": "Nigeria",
+    "distance_km": 9619.8,
+    "direction": "W"
+  },
+  "TG": {
+    "country": "Togo",
+    "distance_km": 10233.1,
+    "direction": "W"
+  },
+  "TN": {
+    "country": "Tunisia",
+    "distance_km": 7567.9,
+    "direction": "NW"
+  },
+  "CY": {
+    "country": "Cyprus",
+    "distance_km": 5815.1,
+    "direction": "W"
+  },
+  "DJ": {
+    "country": "Djibouti",
+    "distance_km": 6857.6,
+    "direction": "W"
+  },
+  "EG": {
+    "country": "Egypt",
+    "distance_km": 6639.5,
+    "direction": "W"
+  },
+  "ER": {
+    "country": "Eritrea",
+    "distance_km": 6842.7,
+    "direction": "W"
+  },
+  "ET": {
+    "country": "Ethiopia",
+    "distance_km": 7304.8,
+    "direction": "W"
+  },
+  "GR": {
+    "country": "Greece",
+    "distance_km": 6268.3,
+    "direction": "NW"
+  },
+  "IQ": {
+    "country": "Iraq",
+    "distance_km": 5165.6,
+    "direction": "W"
+  },
+  "IL": {
+    "country": "Israel",
+    "distance_km": 5933.4,
+    "direction": "W"
+  },
+  "JO": {
+    "country": "Jordan",
+    "distance_km": 5797.5,
+    "direction": "W"
+  },
+  "LB": {
+    "country": "Lebanon",
+    "distance_km": 5707.7,
+    "direction": "W"
+  },
+  "PS": {
+    "country": "Palestinian Territory",
+    "distance_km": 5889.0,
+    "direction": "W"
+  },
+  "SS": {
+    "country": "South Sudan",
+    "distance_km": 8101.4,
+    "direction": "W"
+  },
+  "SD": {
+    "country": "Sudan",
+    "distance_km": 7492.5,
+    "direction": "W"
+  },
+  "SY": {
+    "country": "Syria",
+    "distance_km": 5436.1,
+    "direction": "W"
+  },
+  "TR": {
+    "country": "Turkey",
+    "distance_km": 5414.4,
+    "direction": "W"
+  },
+  "UG": {
+    "country": "Uganda",
+    "distance_km": 8480.5,
+    "direction": "W"
+  },
+  "AD": {
+    "country": "Andorra",
+    "distance_km": 7437.7,
+    "direction": "NW"
+  },
+  "US": {
+    "country": "United States",
+    "distance_km": 10263.9,
+    "direction": "N"
+  },
+  "FR": {
+    "country": "France",
+    "distance_km": 7093.1,
+    "direction": "NW"
+  },
+  "LI": {
+    "country": "Liechtenstein",
+    "distance_km": 6628.9,
+    "direction": "NW"
+  },
+  "MC": {
+    "country": "Monaco",
+    "distance_km": 6997.1,
+    "direction": "NW"
+  },
+  "CH": {
+    "country": "Switzerland",
+    "distance_km": 6732.2,
+    "direction": "NW"
+  },
+  "BE": {
+    "country": "Belgium",
+    "distance_km": 6667.6,
+    "direction": "NW"
+  },
+  "DE": {
+    "country": "Germany",
+    "distance_km": 6315.2,
+    "direction": "NW"
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "distance_km": 6647.0,
+    "direction": "NW"
+  },
+  "NL": {
+    "country": "Netherlands",
+    "distance_km": 6515.1,
+    "direction": "NW"
+  },
+  "AL": {
+    "country": "Albania",
+    "distance_km": 6363.1,
+    "direction": "NW"
+  },
+  "AT": {
+    "country": "Austria",
+    "distance_km": 6340.7,
+    "direction": "NW"
+  },
+  "BA": {
+    "country": "Bosnia and Herzegovina",
+    "distance_km": 6313.5,
+    "direction": "NW"
+  },
+  "HR": {
+    "country": "Croatia",
+    "distance_km": 6341.3,
+    "direction": "NW"
+  },
+  "CZ": {
+    "country": "Czech Republic",
+    "distance_km": 6110.8,
+    "direction": "NW"
+  },
+  "DK": {
+    "country": "Denmark",
+    "distance_km": 6061.8,
+    "direction": "NW"
+  },
+  "HU": {
+    "country": "Hungary",
+    "distance_km": 6019.3,
+    "direction": "NW"
+  },
+  "IT": {
+    "country": "Italy",
+    "distance_km": 6717.3,
+    "direction": "NW"
+  },
+  "ME": {
+    "country": "Montenegro",
+    "distance_km": 6309.5,
+    "direction": "NW"
+  },
+  "PL": {
+    "country": "Poland",
+    "distance_km": 5733.3,
+    "direction": "NW"
+  },
+  "SM": {
+    "country": "San Marino",
+    "distance_km": 6670.2,
+    "direction": "NW"
+  },
+  "RS": {
+    "country": "Serbia",
+    "distance_km": 6123.7,
+    "direction": "NW"
+  },
+  "SK": {
+    "country": "Slovakia",
+    "distance_km": 5919.0,
+    "direction": "NW"
+  },
+  "SI": {
+    "country": "Slovenia",
+    "distance_km": 6370.7,
+    "direction": "NW"
+  },
+  "MK": {
+    "country": "North Macedonia",
+    "distance_km": 6222.3,
+    "direction": "NW"
+  },
+  "VA": {
+    "country": "Vatican City",
+    "distance_km": 6812.3,
+    "direction": "NW"
+  },
+  "NO": {
+    "country": "Norway",
+    "distance_km": 5242.9,
+    "direction": "NW"
+  },
+  "SE": {
+    "country": "Sweden",
+    "distance_km": 5321.8,
+    "direction": "NW"
+  },
+  "BY": {
+    "country": "Belarus",
+    "distance_km": 5152.4,
+    "direction": "NW"
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "distance_km": 5904.7,
+    "direction": "NW"
+  },
+  "EE": {
+    "country": "Estonia",
+    "distance_km": 5047.5,
+    "direction": "NW"
+  },
+  "FI": {
+    "country": "Finland",
+    "distance_km": 4841.3,
+    "direction": "NW"
+  },
+  "GE": {
+    "country": "Georgia",
+    "distance_km": 4663.0,
+    "direction": "W"
+  },
+  "LV": {
+    "country": "Latvia",
+    "distance_km": 5191.9,
+    "direction": "NW"
+  },
+  "LT": {
+    "country": "Lithuania",
+    "distance_km": 5303.7,
+    "direction": "NW"
+  },
+  "MD": {
+    "country": "Moldova",
+    "distance_km": 5447.1,
+    "direction": "NW"
+  },
+  "RO": {
+    "country": "Romania",
+    "distance_km": 5735.2,
+    "direction": "NW"
+  },
+  "UA": {
+    "country": "Ukraine",
+    "distance_km": 5174.5,
+    "direction": "NW"
+  },
+  "AF": {
+    "country": "Afghanistan",
+    "distance_km": 3384.1,
+    "direction": "W"
+  },
+  "BH": {
+    "country": "Bahrain",
+    "distance_km": 5147.6,
+    "direction": "W"
+  },
+  "IN": {
+    "country": "India",
+    "distance_km": 3275.9,
+    "direction": "SW"
+  },
+  "IR": {
+    "country": "Iran",
+    "distance_km": 4391.5,
+    "direction": "W"
+  },
+  "KW": {
+    "country": "Kuwait",
+    "distance_km": 5140.9,
+    "direction": "W"
+  },
+  "MV": {
+    "country": "Maldives",
+    "distance_km": 6064.8,
+    "direction": "SW"
+  },
+  "NP": {
+    "country": "Nepal",
+    "distance_km": 2674.7,
+    "direction": "SW"
+  },
+  "OM": {
+    "country": "Oman",
+    "distance_km": 5165.4,
+    "direction": "W"
+  },
+  "PK": {
+    "country": "Pakistan",
+    "distance_km": 3486.4,
+    "direction": "W"
+  },
+  "QA": {
+    "country": "Qatar",
+    "distance_km": 5152.3,
+    "direction": "W"
+  },
+  "SA": {
+    "country": "Saudi Arabia",
+    "distance_km": 5735.8,
+    "direction": "W"
+  },
+  "SO": {
+    "country": "Somalia",
+    "distance_km": 7092.7,
+    "direction": "W"
+  },
+  "LK": {
+    "country": "Sri Lanka",
+    "distance_km": 4882.4,
+    "direction": "SW"
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "distance_km": 2787.3,
+    "direction": "W"
+  },
+  "TM": {
+    "country": "Turkmenistan",
+    "distance_km": 3703.6,
+    "direction": "W"
+  },
+  "AE": {
+    "country": "United Arab Emirates",
+    "distance_km": 5008.8,
+    "direction": "W"
+  },
+  "YE": {
+    "country": "Yemen",
+    "distance_km": 6154.8,
+    "direction": "W"
+  },
+  "AM": {
+    "country": "Armenia",
+    "distance_km": 4647.4,
+    "direction": "W"
+  },
+  "AZ": {
+    "country": "Azerbaijan",
+    "distance_km": 4370.5,
+    "direction": "W"
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "distance_km": 2762.4,
+    "direction": "W"
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "distance_km": 2398.7,
+    "direction": "W"
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "distance_km": 3173.3,
+    "direction": "W"
+  },
+  "CX": {
+    "country": "Christmas Island",
+    "distance_km": 6401.4,
+    "direction": "S"
+  },
+  "CC": {
+    "country": "Cocos Islands",
+    "distance_km": 6621.4,
+    "direction": "S"
+  },
+  "ID": {
+    "country": "Indonesia",
+    "distance_km": 5318.4,
+    "direction": "S"
+  },
+  "TL": {
+    "country": "Timor-Leste",
+    "distance_km": 6603.5,
+    "direction": "SE"
+  },
+  "AU": {
+    "country": "Australia",
+    "distance_km": 8657.0,
+    "direction": "SE"
+  },
+  "NR": {
+    "country": "Nauru",
+    "distance_km": 8087.7,
+    "direction": "E"
+  },
+  "NC": {
+    "country": "New Caledonia",
+    "distance_km": 9814.5,
+    "direction": "SE"
+  },
+  "NF": {
+    "country": "Norfolk Island",
+    "distance_km": 10643.8,
+    "direction": "SE"
+  },
+  "PG": {
+    "country": "Papua New Guinea",
+    "distance_km": 7279.4,
+    "direction": "SE"
+  },
+  "SB": {
+    "country": "Solomon Islands",
+    "distance_km": 8426.5,
+    "direction": "SE"
+  },
+  "TV": {
+    "country": "Tuvalu",
+    "distance_km": 9647.2,
+    "direction": "E"
+  },
+  "VU": {
+    "country": "Vanuatu",
+    "distance_km": 9357.7,
+    "direction": "SE"
+  },
+  "KH": {
+    "country": "Cambodia",
+    "distance_km": 3826.8,
+    "direction": "S"
+  },
+  "LA": {
+    "country": "Laos",
+    "distance_km": 3221.4,
+    "direction": "S"
+  },
+  "MY": {
+    "country": "Malaysia",
+    "distance_km": 4947.0,
+    "direction": "S"
+  },
+  "MM": {
+    "country": "Myanmar",
+    "distance_km": 3076.5,
+    "direction": "S"
+  },
+  "SG": {
+    "country": "Singapore",
+    "distance_km": 5085.5,
+    "direction": "S"
+  },
+  "TH": {
+    "country": "Thailand",
+    "distance_km": 3722.8,
+    "direction": "S"
+  },
+  "VN": {
+    "country": "Vietnam",
+    "distance_km": 3407.0,
+    "direction": "S"
+  },
+  "BD": {
+    "country": "Bangladesh",
+    "distance_km": 2847.6,
+    "direction": "SW"
+  },
+  "BT": {
+    "country": "Bhutan",
+    "distance_km": 2460.4,
+    "direction": "SW"
+  },
+  "CN": {
+    "country": "China",
+    "distance_km": 1007.8,
+    "direction": "S"
+  },
+  "BN": {
+    "country": "Brunei Darussalam",
+    "distance_km": 4852.1,
+    "direction": "S"
+  },
+  "PH": {
+    "country": "Philippines",
+    "distance_km": 3893.2,
+    "direction": "SE"
+  },
+  "KR": {
+    "country": "South Korea",
+    "distance_km": 2330.1,
+    "direction": "E"
+  },
+  "KP": {
+    "country": "North Korea",
+    "distance_km": 2063.1,
+    "direction": "E"
+  },
+  "GU": {
+    "country": "Guam",
+    "distance_km": 5354.0,
+    "direction": "SE"
+  },
+  "JP": {
+    "country": "Japan",
+    "distance_km": 3013.6,
+    "direction": "E"
+  },
+  "MH": {
+    "country": "Marshall Islands",
+    "distance_km": 7557.6,
+    "direction": "E"
+  },
+  "FM": {
+    "country": "Micronesia",
+    "distance_km": 6839.0,
+    "direction": "SE"
+  },
+  "MP": {
+    "country": "Northern Mariana Islands",
+    "distance_km": 5265.5,
+    "direction": "SE"
+  },
+  "PW": {
+    "country": "Palau",
+    "distance_km": 5299.5,
+    "direction": "SE"
+  },
+  "RU": {
+    "country": "Russian Federation",
+    "distance_km": 1365.3,
+    "direction": "N"
+  },
+  "ES": {
+    "country": "Canarias",
+    "distance_km": 9701.6,
+    "direction": "NW"
+  }
+}
