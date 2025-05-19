@@ -1,5 +1,5 @@
 {
-  "dataset":    "data/cleaned_share-of-women-in-parliament.csv",
+  "csvUrl":  "https://ourworldindata.org/grapher/share-of-women-in-parliament.csv?v=1&csvType=full&useColumnShortNames=true",
   "title":    "Share of women in parliament",
   "subtitle": "In percentage per year",
   "source":   "Source: V-Dem",

@@ -1,5 +1,5 @@
 {
-  "dataset":    "data/cleaned_electric_car_sales_share.csv",
+  "csvUrl":   "https://ourworldindata.org/grapher/electric-car-sales-share.csv?v=1&csvType=full&useColumnShortNames=true",
   "title":    "Electric car sales share",
   "subtitle": "In percentage per year",
   "source":   "Source: International Energy Agency",

@@ -1,5 +1,5 @@
 {
-  "dataset":    "data/cleaned_fossil-fuels-per-capita.csv",
+  "csvUrl":   "https://ourworldindata.org/grapher/fossil-fuels-per-capita.csv?v=1&csvType=full&useColumnShortNames=true",
   "title":    "Fossil fuel consumption per capita",
   "subtitle": "In megawatt-hours per year",
   "source":   "Source: Energy Institute",
