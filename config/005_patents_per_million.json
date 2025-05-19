@@ -2,7 +2,7 @@
   "dataset":    "data/patents_per_million.csv",
   "title":    "Annual patent applications",
   "subtitle": "Per million people",
-  "source":   "World Bank",
+  "source":   "source: World Bank",
   "scale":    1,
   "target":   "South Korea",
   "unitSuffix": "",
