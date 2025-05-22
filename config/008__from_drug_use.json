@@ -2,7 +2,7 @@
   "csvUrl":   "https://ourworldindata.org/grapher/death-rates-from-drug-use-disorders-who.csv?v=1&csvType=full&useColumnShortNames=true",
   "title":    "Deaths from drug use",
   "subtitle": "Per 100,000 people",
-  "source":   "Source: WHO",
+  "source":   "WHO",
   "scale":    1,
   "target":   "United States",
   "unitSuffix": "",

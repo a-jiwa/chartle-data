@@ -2,7 +2,7 @@
   "csvUrl":  "https://ourworldindata.org/grapher/share-of-women-in-parliament.csv?v=1&csvType=full&useColumnShortNames=true",
   "title":    "Share of women in parliament",
   "subtitle": "In percentage per year",
-  "source":   "Source: V-Dem",
+  "source":   "V-Dem",
   "scale":    1,
   "target":   "Rwanda",
   "unitSuffix": "%",

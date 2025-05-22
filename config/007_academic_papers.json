@@ -2,7 +2,7 @@
   "csvUrl":   "https://ourworldindata.org/grapher/scientific-publications-per-million.csv?v=1&csvType=full&useColumnShortNames=true",
   "title":    "Academic papers published",
   "subtitle": "Per million people",
-  "source":   "Source: World Bank",
+  "source":   "World Bank",
   "scale":    1,
   "target":   "Switzerland",
   "unitSuffix": "",
