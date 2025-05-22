@@ -1,8 +1,8 @@
 {
   "csvUrl":   "https://ourworldindata.org/grapher/share-of-the-population-with-completed-tertiary-education.csv?v=1&csvType=full&useColumnShortNames=true",
-  "title":    "Share of the population with tertiary education",
-  "subtitle": "",
-  "source":   "",
+  "title":    "Population with tertiary education",
+  "subtitle": "As share of total population",
+  "source":   "Barro and Lee (2015); Lee and Lee (2016)",
   "scale":    1,
   "target":   "Russia",
   "unitSuffix": "%",
