@@ -1,0 +1,10 @@
+{
+  "csvUrl":   "https://ourworldindata.org/grapher/hospital-beds-per-1000-people.csv?v=1&csvType=full&useColumnShortNames=true",
+  "title":    "Hospital beds",
+  "subtitle": "Per 1,000 people",
+  "source":   "World Bank",
+  "scale":    1,
+  "target":   "South Korea",
+  "unitSuffix": "",
+  "infoDescription": ""
+}
