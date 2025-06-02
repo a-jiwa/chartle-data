@@ -1,0 +1,10 @@
+{
+  "csvUrl":   "https://ourworldindata.org/grapher/share-electricity-coal.csv?v=1&csvType=full&useColumnShortNames=true",
+  "title":    "Share of electricity production from coal",
+  "subtitle": "",
+  "source":   "Ember",
+  "scale":    1,
+  "target":   "United Kingdom",
+  "unitSuffix": "%",
+  "infoDescription": "In 2024, coal only represented 0.82% of the UK's electricity production.\nThe government committed to phasing out coal by 2025."
+}
