@@ -1,0 +1,10 @@
+{
+  "csvUrl":   "https://ourworldindata.org/grapher/tourism-gdp-proportion-of-total-gdp.csv?v=1&csvType=full&useColumnShortNames=true",
+  "title":    "Share of GDP from tourism",
+  "subtitle": "",
+  "source":   "UNWTO",
+  "scale":    1,
+  "target":   "Fiji",
+  "unitSuffix": "%",
+  "infoDescription": "Fiji's tourism accounted for 12 to 14% of its GDP before the Covid pandemic.\nIt fell down to 0% in 2020 and 2021 before bouncing back to 10% in 2022."
+}
