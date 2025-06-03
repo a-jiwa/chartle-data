@@ -1,0 +1,11 @@
+{
+  "csvUrl":   "https://ourworldindata.org/grapher/duration-of-compulsory-education.csv?v=1&csvType=full&useColumnShortNames=true",
+  "title":    "Duration of compulsory education",
+  "subtitle": "",
+  "source":   "UNESCO",
+  "scale":    1,
+  "target":   "Venezuela",
+  "unitSuffix": "",
+  "yearStart": 1998,
+  "infoDescription": "Venezuela has the highest compulsory education duration in the world, set at 17 years"
+}
