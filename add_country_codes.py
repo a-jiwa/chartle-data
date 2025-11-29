@@ -6,7 +6,6 @@ Adds a "Code" column as the second column.
 
 import csv
 import os
-import shutil
 
 def get_iso_mapping():
     """
@@ -282,11 +281,6 @@ def add_country_codes(input_file):
     """
     Add ISO 3-letter country codes to the CSV file as the second column.
     """
-    # Create backup
-    backup_file = input_file.replace('.csv', '_backup.csv')
-    shutil.copy2(input_file, backup_file)
-    print(f"✓ Backup created: {backup_file}")
-    
     # Load ISO mapping
     iso_mapping = get_iso_mapping()
     
@@ -326,7 +320,9 @@ def add_country_codes(input_file):
         writer = csv.writer(outfile)
         
         # Write header with Code column as second column
-        writer.writerow(['Entity', 'Code', 'Year', 'Methane emissions from all sectors'])
+        # Use original column name for the value column
+        value_column_name = header[2] if len(header) > 2 else 'Value'
+        writer.writerow(['Entity', 'Code', 'Year', value_column_name])
         
         # Write all data rows
         for row in data_rows:
@@ -340,9 +336,16 @@ def add_country_codes(input_file):
 
 def main():
     """
-    Main function to process the methane emissions file.
+    Main function to process CSV files with country data.
     """
-    file_path = "/Users/rivaue01/Documents/perso/chartle-data/data/methane-emissions-from-all-sectors.csv"
+    import sys
+    
+    # Check if file path is provided as argument
+    if len(sys.argv) > 1:
+        file_path = sys.argv[1]
+    else:
+        # Default to almonds file if no argument provided
+        file_path = "/Users/rivaue01/Documents/perso/chartle-data/data/production-of-almonds.csv"
     
     if not os.path.exists(file_path):
         print(f"Error: File not found: {file_path}")
